@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# This its my journey on Expo Learning course track on his website
+
+https://img.shields.io/badge/completed-green
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
